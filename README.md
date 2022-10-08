@@ -8,7 +8,15 @@
 
 I am a hard-working, Passionate web developer who has worked with small business owners to build and maintain their ideal websites using HTML, CSS, Bootstrap, and JavaScript. I cater to each client's individual needs and work diligently to ensure a perfect website. Learning new skills is my passion. I always want to cope with new technology. Now I am studying React.JS and Redux and I want to acquire a profound knowledge of web development. 
 
-Skills: JS / HTML / CSS/BOOTSTRAP/JQUERY/JS/REACT.JS/REDUX
+Skills: 
+
+✅HTML 
+✅CSS
+✅BOOTSTRAP
+✅JS 
+✅JQUERY
+✅REACT.JS
+✅REDUX
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juel19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-juel-shikder-b74ba4200//)  
 
