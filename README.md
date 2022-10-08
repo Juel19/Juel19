@@ -5,10 +5,11 @@
 - 🌱 I’m currently learning React.js and Redux  
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: juelshikder95@gmail.com  
+![Profile views](https://gpvc.arturio.dev/Juel19)  
 
 I am a hard-working, Passionate web developer who has worked with small business owners to build and maintain their ideal websites using HTML, CSS, Bootstrap, and JavaScript. I cater to each client's individual needs and work diligently to ensure a perfect website. Learning new skills is my passion. I always want to cope with new technology. Now I am studying React.JS and Redux and I want to acquire a profound knowledge of web development. 
 
-Skills: 
+Skills:   
 
 ✅HTML 
 ✅CSS
@@ -32,4 +33,4 @@ Skills:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Juel19)  
 
-![Profile views](https://gpvc.arturio.dev/Juel19)  
+
