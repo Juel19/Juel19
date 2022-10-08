@@ -1,4 +1,7 @@
-### Hi there 👋
+### I am Juel 👋
+
+- 🔭 I’m currently working on Techknowledge Solutions LLC, in USA as WordPress Customization. 
+- 🌱 I’m currently learning React.js and Redux 
 
 <!--
 **Juel19/Juel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
