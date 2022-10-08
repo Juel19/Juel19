@@ -1,16 +1,16 @@
 ### Hi,I am Juel 👋
 #### I am Web Developer 
 
-- 🔭 I’m currently working on Techknowledge Solutions LLC, in USA as WordPress Customization.  
+- 🔭 I’m currently working on Techknowledge Solutions LLC, in The USA as WordPress Customizer.  
 - 🌱 I’m currently learning React.js and Redux  
 - 💬 Ask me about Web Development  
 - 📫 How to reach me: juelshikder95@gmail.com  
+
 ![Profile views](https://gpvc.arturio.dev/Juel19)  
 
 I am a hard-working, Passionate web developer who has worked with small business owners to build and maintain their ideal websites using HTML, CSS, Bootstrap, and JavaScript. I cater to each client's individual needs and work diligently to ensure a perfect website. Learning new skills is my passion. I always want to cope with new technology. Now I am studying React.JS and Redux and I want to acquire a profound knowledge of web development. 
 
 Skills:   
-
 ✅HTML 
 ✅CSS
 ✅BOOTSTRAP
